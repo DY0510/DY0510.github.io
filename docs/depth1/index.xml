@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Depth 1 on Sulv&#39;s Blog</title>
+    <link>https://dy0510.github.io/docs/depth1/</link>
+    <description>Recent content in Depth 1 on Sulv&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate><atom:link href="https://dy0510.github.io/docs/depth1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1</title>
+      <link>https://dy0510.github.io/docs/depth1/test1/</link>
+      <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+      
+      <guid>https://dy0510.github.io/docs/depth1/test1/</guid>
+      <description>Test description</description>
+    </item>
+    
+    <item>
+      <title>ttttest</title>
+      <link>https://dy0510.github.io/docs/depth1/ttttest/</link>
+      <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+      
+      <guid>https://dy0510.github.io/docs/depth1/ttttest/</guid>
+      <description>Test description</description>
+    </item>
+    
+  </channel>
+</rss>
